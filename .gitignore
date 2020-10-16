@@ -21,3 +21,23 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/SystemTime/nbproject/private/
+/SystemTime/build/
+/HelloWorldSwing/nbproject/private/
+/HelloWorldSwing/build/
+/Nothing/nbproject/private/
+/HelloWorldJavaFX/nbproject/private/
+/HelloWorldJavaFX/build/
+/HelloWorldJavaFX/dist/
+/SystemTimeSwing/nbproject/private/
+/SystemTimeSwing/build/
+/PrimitiveTypes/nbproject/private/
+/PrimitiveTypes/build/
+/HelloWorld/build/
+/PrimitiveTypesJava/nbproject/private/
+/PrimitiveTypesJava/build/
+/CalculatorSum/nbproject/private/
+/CalculatorSumSwing/nbproject/private/
+/CalculatorSumSwing/build/
+/CalculatorAge/nbproject/private/
+/CalculatorAge/build/
